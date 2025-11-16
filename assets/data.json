@@ -1,0 +1,47 @@
+{
+    "settings": {
+        "name": "OH MY TORTA!",
+        "image": "https://i.ibb.co/ccNyRJ57/logo.jpg",
+        "time": "Segunda a Sábado - 9h às 19h",
+        "whatsapp": "55212222367223",
+        "location": "https://www.google.com/maps/place/R.+Visc.+do+Uruguai,+478+-+Centro,+Niter%C3%B3i+-+RJ,+24030-079/@-22.8925297,-43.1249768,17z/data=!3m1!4b1!4m6!3m5!1s0x9983c414ed6e4b:0xfd6d53bdd68f8d10!8m2!3d-22.8925347!4d-43.1223965!16s%2Fg%2F11cncsmgjk?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D"
+    },
+    "categories": [
+        {
+            "category": "Nosso Cardápio",
+            "active": true,
+            "products": [
+                {
+                    "name": "Oh My Lemon!",
+                    "description": "Tortinha com massa de biscoito e recheio de creme de limão.",
+                    "price": 6,
+                    "image": "https://cristalalimentos.com.br/wp-content/uploads/2021/12/Tortinha-de-lim%C3%A3o-Cristal-Alimentos-1-1282x850.jpg",
+                    "active": true
+                },
+                {
+                    "name": "Sweet Passion",
+                    "description": "Tortinha com massa de biscoito e recheio de creme de maracujá.",
+                    "price": 5.5,
+                    "image": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/tortinha-maracuja-768x619.jpg",
+                    "active": true
+                },
+                {
+                    "name": "Oh my choc!",
+                    "description": "Tortinha com massa de biscoito e recheio de creme de chocolate ao leite.",
+                    "price": 6,
+                    "image": "https://www.cozinhareceita.com/wp-content/uploads/2025/10/www.cozinhareceita.com-Tortinha-de-Chocolate.webp",
+                    "active": true
+                },
+                {
+                    "name": "Berry Good",
+                    "description": "Tortinha com massa de biscoito e recheio de creme de morango.",
+                    "price": 5.5,
+                    "image": "https://cdn.casaeculinaria.com/wp-content/uploads/2024/05/04151858/Tortinha-de-morango-1.webp",
+                    "active": true
+                }
+            ]
+        }
+        
+    ]
+
+}
